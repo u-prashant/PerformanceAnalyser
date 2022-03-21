@@ -1,0 +1,73 @@
+Columns
+OCINumber
+CustomerName
+CustomerCode
+BUCode
+OCIQty
+OrderDate
+Stock
+CREATED
+Conf A2
+Conf A14
+Conf A15
+LW
+Inventory
+Blk Change A2
+Blk Change A14
+Blk Change A15
+HOLD - Store
+Frame Store
+LOSS A2
+LOSS A14
+LOSS A15
+DS A2
+DS A14
+DS A15
+DS - rework A2
+DS - rework A14
+DS - rework A15
+TS A14
+TS A15
+TS - rework A14
+TS - rework A15
+QC - DS A2
+QC - DS A14
+QC - DS A15
+QC - TS A14
+QC - TS A15
+TINT A2
+TINT A14
+TINT A15
+TINT - QC A2
+TINT - QC A14
+TINT - QC A15
+Stripping A2
+Stripping A14
+Stripping A15
+Decoat A2
+Decoat A14
+Decoat A15
+Ultra A14
+Ultra A15
+TC A2
+TC A14
+TC A15
+TMC A2
+TMC A14
+TMC A15
+FINAL QC A2
+FINAL QC A14
+FINAL QC A15
+UC Packing A15
+UC QC - TS A15
+Auto Packer
+Audit A2
+Audit A14
+Audit A15
+FITT A2
+FITT A14
+Mounting A2
+Mounting A14
+FITT - QC A2
+FITT - QC A14
+DISPATCH
